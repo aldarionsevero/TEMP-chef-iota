@@ -1,0 +1,10 @@
+DIRECTORIES:
+  IOTA_REPO: /vagrant/repo/busineme-api
+APPLICATION:
+  IOTA_REPOSITORY: https://github.com/eokoe/Iota.git
+  SECRET_KEY: secret-key
+DATABASE:
+  NAME: iota
+  USER: iota
+  PASSWORD: 1234
+  VERSION: 9.3

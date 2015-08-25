@@ -1,0 +1,5 @@
+iota:
+  run_list:
+    - recipe[basics]
+    # - recipe[iota::postgresql]
+    - recipe[iota::iota]
